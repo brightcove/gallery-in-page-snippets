@@ -1,0 +1,22 @@
+{
+  "name": "in-page-snippets",
+  "version": "1.0.0",
+  "description": "Custom In-Page Experience code snippets",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ext .js snippets",
+    "test": "npm run lint"
+  },
+  "keywords": [
+    "In-Page",
+    "Experience",
+    "Gallery",
+    "Brightcove"
+  ],
+  "author": "Dave Kelly <dkelly@brightcove.com>",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "4.6.1",
+    "eslint-config-es5": "0.5.0"
+  }
+}

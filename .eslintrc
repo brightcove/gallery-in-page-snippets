@@ -1,0 +1,10 @@
+{
+  "env": {
+    "es6": false,
+    "browser": true,
+    "jasmine": false,
+    "commonjs": false,
+    "node": false
+  },
+  "extends": ["eslint:recommended", "eslint-config-es5"]
+}
